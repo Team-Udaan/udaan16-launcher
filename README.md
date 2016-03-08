@@ -1,4 +1,4 @@
-# Fusion16
+# Udaan16
 ------
 Teaser website of  Tech-fest udaan'16 organised by BVM.
 
