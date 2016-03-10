@@ -12,8 +12,10 @@ Teaser website of  Tech-fest udaan'16 organised by BVM.
 ------
 ####Frontend
 
-Name 			| 	Profile Link
+Name 			    | 	Profile Link
 ------------ 	| -------------
+
+Dhruvin Gandhi| [Dhruvin Gandhi](https://github.com/dhruvin2910)
 Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)  
 Rohit Patel 	| [Rohitpa7824](https://github.com/Rohitpa7824)
 Vatsal Trivedi| [vattytrivedi](https://github.com/vattytrivedi)
